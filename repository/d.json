@@ -475,6 +475,16 @@
 			]
 		},
 		{
+			"name": "Django Snippets",
+			"details": "https://github.com/iambibhas/sublime-django-snippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/iambibhas/sublime-django-snippets/tags"
+				}
+			]
+		},
+		{
 			"name": "Django-DocsSearch",
 			"details": "https://github.com/saippuakauppias/sublime-text-2-Django-DocsSearch",
 			"releases": [
